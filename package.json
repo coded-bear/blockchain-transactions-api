@@ -10,5 +10,8 @@
     "Blockchain transactions API"
   ],
   "author": "Łukasz Warchoł",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "secp256k1": "^4.0.0"
+  }
 }
